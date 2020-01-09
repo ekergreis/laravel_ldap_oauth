@@ -1,6 +1,7 @@
 # Laravel API Connexion LDAP (adldap2/adldap2-laravel) et gestion token OAuth2 (laravel/passport)
 
 Tests réalisés avec le serveur LDAP mis en ligne pour tests par forumsys
+
 Pour simplifier l'identification des modifications, les commentaires ont été préfixés avec "[LDAP / OAUTH]".
 
 ### Récupération sources et installation :
